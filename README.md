@@ -1,380 +1,276 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Thisaru%20Nadeeshan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Associate%20Software%20Engineer%20%7C%20AI%20Integration%20Specialist&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=Thisaru%20Nadeeshan&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=43&desc=Backend%20Developer%20%7C%20ASP.NET%20Core%20Specialist%20%7C%20AI%20Integration%20Expert&descAlignY=62&descSize=22" />
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+Intelligent+Web+Solutions;⚡+ASP.NET+Core+%26+AI+Specialist;🌟+Turning+Ideas+Into+Digital+Reality)](https://git.io/typing-svg)
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/🔥%20Associate%20Software%20Engineer-Talpaha%20Solutions-667eea?style=for-the-badge&labelColor=000000&color=667eea" />
-  <img src="https://img.shields.io/badge/🌍%20Based%20in-Sri%20Lanka-764ba2?style=for-the-badge&labelColor=000000&color=764ba2" />
-  <img src="https://img.shields.io/badge/🎓%20BEng%20Software%20Engineering-London%20Met-4c1d95?style=for-the-badge&labelColor=000000&color=4c1d95" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=a82da8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🚀+Backend+Developer+Crafting+Intelligent+APIs;⚡+ASP.NET+Core+%26+AI+Integration+Specialist;🌟+Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
   
 </div>
 
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=thisarunadeeshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisarunadeeshan&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=764ba2" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/dynamic/json?color=a82da8&label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dthisarunadeeshan&style=for-the-badge&logo=github&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-EEFF00?style=for-the-badge&logo=dotnet&logoColor=0D1117&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-a82da8?style=for-the-badge&labelColor=0D1117" />
 </div>
 
 <br>
 
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thisarunadeeshan&show_icons=true&count_private=true&hide_border=true&title_color=EEFF00&icon_color=a82da8&text_color=c9d1d9&bg_color=0d1117" alt="Thisaru's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisarunadeeshan&layout=compact&hide_border=true&title_color=EEFF00&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisarunadeeshan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=EEFF00&fire=EEFF00&currStreakLabel=a82da8" alt="thisarunadeeshan" />
+</div>
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```typescript
+const thisaruNadeeshan = {
+    position: "Associate Software Engineer",
+    company: "Talpaha Solutions (Pvt) Ltd",
+    location: "Matara, Sri Lanka 🇱🇰",
+    
+    expertise: {
+        backend: ["ASP.NET Core", "Web APIs", "Microservices"],
+        frontend: ["React", "TypeScript", "Next.js"],
+        database: ["SQL Server", "MongoDB", "Redis"],
+        ai: ["Dialogflow", "Flowise AI", "Conversational AI"],
+        cloud: ["Azure", "Docker", "CI/CD"]
+    },
+    
+    currentlyWorking: [
+        "🦷 Smylor.com - Dental appointment platform with AI chatbot",
+        "🏪 CityHire.com - Product rental marketplace",
+        "📱 MFM.com - Media advertising platform with Flowise AI"
+    ],
+    
+    education: "BEng (Hons) Software Engineering @ London Met University",
+    
+    philosophy: "Clean code, scalable architecture, continuous learning"
+};
 ```
-class ThisaruNadeeshan {
-  // Professional Identity
-  public readonly role = "Associate Software Engineer";
-  public readonly company = "Talpaha Solutions (Pvt) Ltd";
-  public readonly location = "🇱🇰 Sri Lanka";
-  
-  // Core Expertise
-  public readonly expertise = [
-    "ASP.NET Core Web APIs",
-    "AI Integration (Dialogflow, Flowise)",
-    "React & TypeScript Frontend",
-    "Cloud Solutions & DevOps"
-  ];
-  
-  // Live Projects in Production
-  public readonly liveProjects = {
-    "Smylor.com": "E-commerce + AI Chatbot",
-    "CityHire.com": "Job Portal + Smart Matching", 
-    "MFM.com": "Financial Management System"
-  };
-  
-  // Education Journey
-  public readonly education = "BEng (Hons) Software Engineering @ London Metropolitan University";
-  
-  // Philosophy
-  public getPhilosophy(): string {
-    return "🔍 Understand First, Build Second | 🧠 Think Long-Term | 🤝 Collaborate Openly";
-  }
-  
-  // Current Mission
-  public getCurrentFocus(): string[] {
-    return [
-      "Building scalable microservices architecture",
-      "Integrating AI for smarter business solutions", 
-      "Exploring cloud-native development patterns"
-    ];
-  }
-}
 
+<br clear="both">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Backend Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
+
+### 🎨 Frontend Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🤖 AI & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flowise_AI-7C3AED?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</p>
+
+### 🏠 IoT & Hardware
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=Espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MIT_App_Inventor-FDB515?style=for-the-badge&logoColor=white" />
+</p>
+
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="45"> Live Production Projects
+
+<div align="center">
+
+| 🚀 Project | 💡 Description | 🛠️ Tech Stack | 🔗 Status |
+|------------|----------------|---------------|-----------|
+| **[Smylor.com](https://smylor.com)** | 🦷 Dental appointment booking platform with AI-powered chatbot for patient inquiries and automated scheduling | ASP.NET Core, React, MSSQL, Dialogflow | ![Live](https://img.shields.io/badge/LIVE-00FF00?style=flat-square) |
+| **[CityHire.com](https://cityhire.com)** | 🏪 Product rental marketplace connecting owners with renters, featuring real-time availability tracking | ASP.NET Core, React, MongoDB, SignalR | ![Live](https://img.shields.io/badge/LIVE-00FF00?style=flat-square) |
+| **[MFM.com](https://mfm.com)** | 📱 Media advertising platform with conversational AI integration using Flowise for campaign optimization | ASP.NET Core, React, MSSQL, Flowise AI | ![Live](https://img.shields.io/badge/LIVE-00FF00?style=flat-square) |
+
+</div>
+
+### 🎯 Key Achievements
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/1000+-Active%20Users-EEFF00?style=for-the-badge&labelColor=0D1117" />
+        <br><sub>Across all platforms</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/70%25-Response%20Time%20Reduction-a82da8?style=for-the-badge&labelColor=0D1117" />
+        <br><sub>With AI integration</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/99.9%25-Uptime-00FF00?style=for-the-badge&labelColor=0D1117" />
+        <br><sub>Production reliability</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="35"> Personal Projects
+
+<div align="center">
+
+### 💼 Full-Stack Applications
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **🛍️ T-Ela Badu E-commerce** | Complete e-commerce platform with secure payment gateway integration | PHP, JavaScript, Bootstrap, MySQL |
+| **🗺️ Guider Lanka Tourism** | Multi-role tourism platform supporting Admin, Tourist Guide, and Tourist interfaces | PHP, HTML5, CSS3, MySQL |
+| **💪 Gym Management Pro** | Comprehensive gym management system with membership tracking and payment processing | React, Spring Boot, MySQL |
+| **🔧 Imashi Spare Parts** | Auto parts inventory management with role-based access control | React, TypeScript, Spring Boot |
+
+### 🏠 IoT & Hardware Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **🏡 Smart Home System** | Mobile-controlled home automation with 4-channel relay system | NodeMCU ESP8266, Firebase, MIT App Inventor |
+| **🚦 Smart Traffic Controller** | Intelligent traffic management using vehicle detection | Arduino, Ultrasonic Sensors, LED Matrix |
+
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisarunadeeshan&custom_title=Contribution%20Graph&bg_color=0D1117&color=EEFF00&line=a82da8&point=FFFFFF&area_color=a82da8&title_color=EEFF00&area=true" alt="Thisaru's Activity Graph" />
+</div>
+
+<br>
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+```mermaid
+timeline
+    title Educational Journey
+    
+    2021-2022 : Diploma in Software Engineering
+                : NIBM Matara
+                : GPA 3.63
+                
+    2022-2023 : HND in Software Engineering
+                : NIBM Matara
+                : Merit Pass - GPA 3.72
+                
+    2025-2026 : BEng (Hons) Software Engineering
+                : London Metropolitan University
+                : Top-up Program
 ```
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Arsenal**
-
-<div align="center">
-
-### 🎯 **Backend Mastery**
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs&theme=dark" />
-
-### 🗄️ **Database Technologies** 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase&theme=dark" />
-
-### 🎨 **Frontend & Mobile**
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css&theme=dark" />
-
-### 🤖 **AI & Cloud**
-<img src="https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes,tensorflow&theme=dark" />
-
-### 🔧 **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma&theme=dark" />
-
-### 🏠 **IoT & Hardware**
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-<img src="https://img.shields.io/badge/NodeMCU-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/MIT%20App%20Inventor-FF6900?style=for-the-badge&logo=appinventor&logoColor=white" />
 
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Professional Journey**
-
-<div align="center">
-
-### 🏢 **Associate Software Engineer** 
-**Talpaha Solutions (Pvt) Ltd** | *2023 - Present*
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/🌐%20Smylor.com-E--commerce%20Platform-success?style=for-the-badge" />
-<br><sub>AI Chatbot Integration + Payment Gateway</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/💼%20CityHire.com-Job%20Portal-blue?style=for-the-badge" />
-<br><sub>Smart Matching Algorithm + Real-time Chat</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/💰%20MFM.com-FinTech%20Solution-orange?style=for-the-badge" />
-<br><sub>Automated Reporting + Analytics</sub>
-</td>
-</tr>
-</table>
-
-**Key Achievements:**
-- 🚀 Deployed **3 production applications** serving 1000+ users
-- 🤖 Implemented **AI-powered customer service** reducing response time by 70%
-- ⚡ Built **real-time features** using SignalR and WebSocket connections
-- 📱 Integrated **WhatsApp Business API** for automated communications
-- 🏗️ Designed **scalable backend architecture** using clean code principles
-
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> **Featured Projects**
-
-<div align="center">
-
-### 🌟 **Production Applications** 
-<table>
-<tr>
-<th>🚀 Project</th>
-<th>💻 Tech Stack</th>
-<th>🎯 Role</th>
-<th>📊 Status</th>
-</tr>
-<tr>
-<td><strong>Smylor.com</strong></td>
-<td>ASP.NET Core, React, MSSQL, Dialogflow</td>
-<td>Backend Lead</td>
-<td>🟢 Production</td>
-</tr>
-<tr>
-<td><strong>CityHire.com</strong></td>
-<td>ASP.NET Core, TypeScript, MongoDB</td>
-<td>Full-Stack</td>
-<td>🟢 Production</td>
-</tr>
-<tr>
-<td><strong>MFM.com</strong></td>
-<td>ASP.NET Core, React, MSSQL, Azure</td>
-<td>Backend Developer</td>
-<td>🟢 Production</td>
-</tr>
-</table>
-
-### 💎 **Personal Innovations**
-<table>
-<tr>
-<th>🛠️ Project</th>
-<th>⚡ Technology</th>
-<th>📝 Description</th>
-</tr>
-<tr>
-<td><strong>🛍️ T... Ela Badu E-commerce</strong></td>
-<td>PHP, JavaScript, Bootstrap</td>
-<td>Full-stack e-commerce with secure payment integration</td>
-</tr>
-<tr>
-<td><strong>🗺️ Guider Lanka Tourism</strong></td>
-<td>PHP, HTML5, CSS3, MySQL</td>
-<td>Multi-role tourism platform (Admin/Guide/Tourist)</td>
-</tr>
-<tr>
-<td><strong>💪 Gym Management Pro</strong></td>
-<td>React, Spring Boot, MySQL</td>
-<td>Complete gym operations with payment tracking</td>
-</tr>
-<tr>
-<td><strong>⚡ Smart Billing System</strong></td>
-<td>Java (NetBeans), Swing</td>
-<td>Consumption-based electrical billing with records</td>
-</tr>
-<tr>
-<td><strong>☕ Café Management</strong></td>
-<td>C Language, Data Structures</td>
-<td>Linked-list based inventory management system</td>
-</tr>
-<tr>
-<td><strong>🔧 Imashi Spare Parts</strong></td>
-<td>React, TypeScript, Spring Boot</td>
-<td>Auto parts inventory with role-based access</td>
-</tr>
-</table>
-
-### 🏠 **IoT Innovations**
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/🏡%20Smart%20Home%20System-IoT%20Innovation-blueviolet?style=for-the-badge" />
-<br>
-<strong>Tech:</strong> NodeMCU ESP8266, Firebase, MIT App Inventor<br>
-<sub>Mobile-controlled home automation with 4-channel relay system</sub>
-</td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/🚦%20Smart%20Traffic%20System-Arduino%20Project-green?style=for-the-badge" />
-<br>
-<strong>Tech:</strong> Arduino, Ultrasonic Sensors, LED Matrix<br>
-<sub>Vehicle detection-based intelligent traffic optimization</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> **GitHub Analytics**
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thisarunadeeshan&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Journey" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisarunadeeshan&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisarunadeeshan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Coding Time" />
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Education Excellence**
-
-<div align="center">
-
-
-graph LR
-    A[🎓 Diploma<br/>Software Engineering<br/>NIBM Matara<br/>2021-2022<br/>GPA: 3.63] --> B[🏆 HND<br/>Software Engineering<br/>NIBM Matara<br/>2022-2023<br/>Merit Pass | GPA: 3.72]
-    B --> C[🌟 BEng Hons<br/>Software Engineering<br/>London Metropolitan University<br/>2025-2026<br/>Top-up Program]
-
-
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> **What Drives Me**
-
-<div align="center">
-
-### 🎯 **Engineering Philosophy**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔍-Understand%20First-667eea?style=for-the-badge" />
-<br><sub>Deep dive into requirements before coding</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🧠-Think%20Long--Term-764ba2?style=for-the-badge" />
-<br><sub>Scalable, maintainable architecture</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🤝-Collaborate%20Openly-4c1d95?style=for-the-badge" />
-<br><sub>Agile methodologies & teamwork</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🚀-Deliver%20%26%20Learn-8b5cf6?style=for-the-badge" />
-<br><sub>Clean code with continuous growth</sub>
-</td>
-</tr>
-</table>
-
-### 💡 **Current Mission**
-- 🔬 **AI Integration**: Advanced Flowise AI workflows for business automation
-- 🏗️ **Microservices**: Cloud-native architecture with ASP.NET Core
-- ☁️ **Azure Mastery**: DevOps optimization and cloud-first development
-- 🤖 **Intelligent Systems**: ML-powered web applications
-- 📱 **Cross-Platform**: Expanding to React Native mobile development
-
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Let's Connect & Collaborate**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect With Me
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://navod-jayawardana.my.canva.site/j-p-t-nadeeshandeveloper">
-          <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="http://github.com/ThisaruNadeeshan/portfolio-/raw/main/Thisaru%20Nadeeshan%20Cv.pdf">
-          <img src="https://img.shields.io/badge/📄%20Download%20CV-PDF%20Resume-764ba2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://navod-jayawardana.my.canva.site/j-p-t-nadeeshandeveloper">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thisaru-nadeeshan-275846219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thisaruc2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ThisaruNadeeshan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <br><br>
+  
+  <a href="http://github.com/ThisaruNadeeshan/portfolio-/raw/main/Thisaru%20Nadeeshan%20Cv.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20My%20Resume-EEFF00?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  
+</div>
+
+<br>
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/thisarunadeeshan/thisarunadeeshan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
   
   <br>
   
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/thisaru-nadeeshan-275846219/">
-          <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:thisaruc2@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Direct%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ThisaruNadeeshan">
-          <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  ![](https://komarev.com/ghpvc/?username=thisarunadeeshan&style=for-the-badge&color=a82da8&labelColor=0D1117)
   
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> **Fun Zone**
-
-<div align="center">
+  ### 🚀 "Building robust backends, one API at a time" 🚀
   
-  ### 🐍 **Contribution Snake**
-  ![Snake Animation](https://github.com/thisarunadeeshan/thisarunadeeshan/blob/output/github-contribution-grid-snake-dark.svg)
-  
-  ### ⚡ **Developer Life**
-  
-  <table>
-    <tr>
-      <td align="center">☕ <strong>Fuel:</strong> Coffee + Clean Architecture</td>
-      <td align="center">🎵 <strong>Coding Playlist:</strong> Lo-fi + Tech Podcasts</td>
-    </tr>
-    <tr>
-      <td align="center">🐛 <strong>Debug Style:</strong> Console.WriteLine() Detective</td>
-      <td align="center">🎯 <strong>Favorite Status:</strong> 200 OK (Obviously!)</td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=75" />
-  
-  <br>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=thisarunadeeshan&color=667eea&style=for-the-badge&label=Profile+Views)
-  
-  ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **"Building intelligent solutions, one API at a time"** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  
-  <sub>💼 Open to collaborations | 🌟 Always learning | 🤖 AI enthusiast | 🚀 Ready for new challenges</sub>
-  
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Backend%20Developer-EEFF00?style=for-the-badge&labelColor=0D1117" />
 </div>
