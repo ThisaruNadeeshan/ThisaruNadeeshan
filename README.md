@@ -33,7 +33,7 @@
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-
+```
 class ThisaruNadeeshan {
   // Professional Identity
   public readonly role = "Associate Software Engineer";
@@ -73,7 +73,7 @@ class ThisaruNadeeshan {
   }
 }
 
-
+```
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Arsenal**
