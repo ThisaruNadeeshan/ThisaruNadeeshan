@@ -31,9 +31,9 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-```typescript
+
 class ThisaruNadeeshan {
   // Professional Identity
   public readonly role = "Associate Software Engineer";
@@ -72,7 +72,7 @@ class ThisaruNadeeshan {
     ];
   }
 }
-```
+
 
 <br>
 
@@ -249,11 +249,11 @@ class ThisaruNadeeshan {
 
 <div align="center">
 
-```mermaid
+
 graph LR
     A[🎓 Diploma<br/>Software Engineering<br/>NIBM Matara<br/>2021-2022<br/>GPA: 3.63] --> B[🏆 HND<br/>Software Engineering<br/>NIBM Matara<br/>2022-2023<br/>Merit Pass | GPA: 3.72]
     B --> C[🌟 BEng Hons<br/>Software Engineering<br/>London Metropolitan University<br/>2025-2026<br/>Top-up Program]
-```
+
 
 </div>
 
