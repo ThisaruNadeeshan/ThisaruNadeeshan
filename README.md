@@ -321,17 +321,17 @@ graph LR
   <table>
     <tr>
       <td align="center">
-        <a href="https://linkedin.com/in/thisaru-nadeeshan">
+        <a href="https://www.linkedin.com/in/thisaru-nadeeshan-275846219/">
           <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </td>
       <td align="center">
-        <a href="mailto:thisaru.nadeeshan@gmail.com">
+        <a href="mailto:thisaruc2@gmail.com">
           <img src="https://img.shields.io/badge/Email-Direct%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/thisarunadeeshan">
+        <a href="https://github.com/ThisaruNadeeshan">
           <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
